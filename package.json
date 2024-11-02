@@ -1,0 +1,19 @@
+{
+  "name": "skill-upscale-program---html-css",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "webpack serve --config webpack.config.js"
+  },
+  "keywords": [],
+  "author": "Damika Anupama",
+  "license": "ISC",
+  "devDependencies": {
+    "html-loader": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "webpack": "^5.96.1",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0"
+  }
+}
